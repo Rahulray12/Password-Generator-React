@@ -10,7 +10,8 @@ This is a simple **Password Generator** built using **React**. It allows users t
 - Responsive and clean UI.
 
 ## Demo
-![Password Generator Screenshot](C:\Users\LENOVO\Desktop\CODE\React dev\Password-Generator-React\src\assets\example.png)
+![Password Generator Screenshot](./src/assets/example.png)
+
 
 ## Getting Started
 
