@@ -104,7 +104,7 @@ Feel free to modify the project to suit your needs:
 
 ## Contributions
 
-If you wish to contribute, feel free to open issues or submit pull requests.
+If you wish to contribute, feel free to open issues or submit pull requests.Thank You.
 
 ## License
 
